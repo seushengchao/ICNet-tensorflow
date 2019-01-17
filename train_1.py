@@ -16,3 +16,5 @@ from utils.image_reader import ImageReader, prepare_label
 a = b + Config
 
 shengchao = 5
+jiangkai = 6
+cnacan = 7
