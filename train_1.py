@@ -40,4 +40,6 @@ def get_arguments():
 
 
 shengchao = 1
+jiangkai = 100
+cancan = 1000
 
